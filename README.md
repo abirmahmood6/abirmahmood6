@@ -6,13 +6,11 @@ I'm passionate about building scalable, user-focused products and growing as a s
 
 ---
 
-## 🧠 What I Do
-- Develop full-stack web applications
-- Build clean and responsive frontends
-- Design and implement backend APIs
-- Collaborate on open-source and team projects
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abir-mahmood1/) 
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +38,22 @@ I'm passionate about building scalable, user-focused products and growing as a s
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=abirmahmood6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abirmahmood6&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abirmahmood6&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🧠 What I Do
+- Develop full-stack web applications
+- Build clean and responsive frontends
+- Design and implement backend APIs
+- Collaborate on open-source and team projects
 
 ---
 
